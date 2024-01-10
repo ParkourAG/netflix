@@ -308,5 +308,5 @@ div.questions_sec > div:nth-child(1){
     color: white;
     font-size: 6rem;
     white-space: nowrap;
-    animation: colorChange 1s linear infinite; /* Adjusted duration to 10s */
+    animation: colorChange 2s linear infinite; /* Adjusted duration to 10s */
   }
