@@ -1,2 +1,3 @@
 <p>Click to see the page -> <a href="https://parkourag.github.io/netflix/">https://parkourag.github.io/netflix/</a></p>
-![Screenshot 2024-04-16 085933](https://github.com/ParkourAG/netflix/assets/130496488/eb3c6b43-0958-46b7-ace2-07807c200287)
+<img src="https://github.com/ParkourAG/netflix/assets/130496488/2dd41f2f-0586-43b8-8ebf-958448d28767" alt="">
+![Screenshot 2024-04-16 085933](https://github.com/ParkourAG/netflix/assets/130496488/2dd41f2f-0586-43b8-8ebf-958448d28767)
